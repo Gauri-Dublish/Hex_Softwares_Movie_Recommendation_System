@@ -4,7 +4,7 @@
 ## Movie Recommendation System using Cosine Similarity
 
 ### Overview:
-This Python script implements a basic movie recommendation system using **Natural Language Processing (NLP)** techniques. The system computes the similarity between movies based on their **genre** and **overview**, and suggests movies that are similar to a given movie. The recommendations are generated using **cosine similarity** on a **bag-of-words** representation of the movie metadata.
+This Python project implements a basic movie recommendation system using **Natural Language Processing (NLP)** techniques. The system computes the similarity between movies based on their **genre** and **overview**, and suggests movies that are similar to a given movie. The recommendations are generated using **cosine similarity** on a **bag-of-words** representation of the movie metadata.
 
 ### Prerequisites:
 - **Google Colab** or a local Python environment
